@@ -2,6 +2,13 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Added Resources
+* [ Google ](www.google.coom) He knows everything.
+
+* [ Stack Overflow ](https://stackoverflow.com/) Full of questions and answer for every kind of problem.
+
+* [ W3School ](https://www.w3schools.com/) Really well structured tutorial for a lot of things.
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
